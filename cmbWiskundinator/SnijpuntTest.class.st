@@ -16,5 +16,5 @@ SnijpuntTest >> testSnijpuntVan2Lijnen [
 	l := LijnVergelijking genaamd: 'l' a: 2 / 3 b: 3.
 	m := LijnVergelijking genaamd: 'm' a: -3 b: 6 / 7.
 	snijpunt := Snijpunt tussen: l en: m.
-	snijpunt uitwerking inspect
+	snijpunt uitwerking
 ]

@@ -14,7 +14,6 @@ ExpOptelling class >> van: expression1 met: expression2 [
 
 { #category : #compute }
 ExpOptelling >> exp2Eraf: aNumber [ 
-self halt.
 	exp2 := exp2 - aNumber 
 ]
 
